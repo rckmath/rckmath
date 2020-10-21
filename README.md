@@ -1,18 +1,21 @@
-<div style="text-align:center;" markdown="1">
-
-### **Welcome to rckmath's recinto**
-<br>
-
-[![Last.fm Badge](https://img.shields.io/badge/-Last.fm-d60000?style=flat-square&logo=Last.fm&logoColor=white&link=https://www.last.fm/user/xBossK)](https://www.last.fm/user/xBossK)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rckmath/)](https://www.linkedin.com/in/rckmath/)
-[![Steam Badge](https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/BossBR/)](https://steamcommunity.com/id/BossBR/)
-
-</div>
+<p align="center" style="text-align:center;" markdown="1">
+  <b>Welcome to rckmath's recinto</b>
+  <br>
+  <a href="https://www.last.fm/user/xBossK">
+    <img align="center" src="https://img.shields.io/badge/-Last.fm-d60000?style=flat-square&logo=Last.fm&logoColor=white& link=https://www.last.fm/user/xBossK" />
+  </a>
+  <a href="https://www.linkedin.com/in/rckmath/">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white& link=https://www.linkedin.com/in/rckmath/" />
+  </a>
+  <a href="https://steamcommunity.com/id/BossBR/">
+    <img align="center" src="https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/BossBR/" />
+  </a>
+</p>
 
 ***
 <br>
 
-<p style="text-align:center;">
+<p align="center" style="text-align:center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" />
   </a>
