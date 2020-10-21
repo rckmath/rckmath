@@ -2,10 +2,10 @@
   <b>Welcome to rckmath's recinto</b>
   <br>
   <a href="https://www.last.fm/user/xBossK">
-    <img align="center" src="https://img.shields.io/badge/-Last.fm-d60000?style=flat-square&logo=Last.fm&logoColor=white& link=https://www.last.fm/user/xBossK" />
+    <img align="center" src="https://img.shields.io/badge/-Last.fm-d60000?style=flat-square&logo=Last.fm&logoColor=white&link=https://www.last.fm/user/xBossK" />
   </a>
   <a href="https://www.linkedin.com/in/rckmath/">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white& link=https://www.linkedin.com/in/rckmath/" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rckmath/" />
   </a>
   <a href="https://steamcommunity.com/id/BossBR/">
     <img align="center" src="https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/BossBR/" />
