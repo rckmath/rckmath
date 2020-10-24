@@ -15,14 +15,14 @@
 ***
 
 <p align="center" style="text-align:center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/rckmath">
     <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" />
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/rckmath/mblabs-app-desafio">
     <img style="text-align:center;" src="https://github-readme-stats.vercel.app/api/pin/?username=rckmath&repo=mblabs-app-desafio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=100" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/rckmath/game-2048">
     <img style="text-align:center;" src="https://github-readme-stats.vercel.app/api/pin/?username=rckmath&repo=game-2048&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
