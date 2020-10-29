@@ -23,29 +23,29 @@
 <p align="center" style="text-align:center;" markdown="1">
   <b>Languages and Tools</b>
   <br/>
-    <a href="">
+    <a href="#">
       <img align="center" alt="VS Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </a>
-    <a href="">
+    <a href="#">
       <img align="center" alt="SQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
     </a>
-    <a href="">
+    <a href="#">
       <img align="center" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     </a>
-    <a href=""> 
+    <a href="#"> 
       <img align="center" alt="Java" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
     </a>
-    <a href="">  
+    <a href="#">  
       <img align="center" alt="Javascript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </a>
-    <a href="">  
+    <a href="#">  
       <img align="center" alt="C++" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     </a>
-    <a href="">  
+    <a href="#">  
       <img align="center" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
-    <a href="">  
-      <img align="center" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+    <a href="#">  
+      <img align="center" alt="Docker" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
     </a>
 </p>
 <br/>
