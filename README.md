@@ -14,9 +14,12 @@
 
 ***
 
-<a href="https://open.spotify.com/user/22b2cegc2fomm73dnjbdjq7wi">
-  <img src="https://now-playing-rckmath.vercel.app/api/spotify-playing" alt="rckmath's Spotify now playing" width="350px" />
-</a>
+<p align="center" style="text-align:center;" markdown="1">
+  <a href="https://open.spotify.com/user/22b2cegc2fomm73dnjbdjq7wi">
+    <img src="https://now-playing-rckmath.vercel.app/api/spotify" alt="rckmath's Spotify  now playing" width="350px" />
+  </a>
+</p>
+
 
 ***
 
