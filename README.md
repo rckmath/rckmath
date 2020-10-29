@@ -11,15 +11,12 @@
     <img align="center" src="https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/BossBR/" />
   </a>
 </p>
-
-***
-
+<br/>
 <p align="center" style="text-align:center;" markdown="1">
   <a href="https://open.spotify.com/user/22b2cegc2fomm73dnjbdjq7wi">
     <img src="https://now-playing-rckmath.vercel.app/api/spotify" alt="rckmath's Spotify  now playing" width="300px" />
   </a>
 </p>
-
 
 ***
 
@@ -40,6 +37,6 @@
 <details align="center">
   <summary><b>GitHub Stats</b></summary>
   <a href="https://github.com/rckmath">
-    <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" width="300px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" width="384px" />
   </a>
 </details>
