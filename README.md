@@ -16,26 +16,10 @@
 
 <p align="center" style="text-align:center;" markdown="1">
   <a href="https://open.spotify.com/user/22b2cegc2fomm73dnjbdjq7wi">
-    <img src="https://now-playing-rckmath.vercel.app/api/spotify" alt="rckmath's Spotify  now playing" width="350px" />
+    <img src="https://now-playing-rckmath.vercel.app/api/spotify" alt="rckmath's Spotify  now playing" width="300px" />
   </a>
 </p>
 
-
-***
-
-<details align="center">
-  <summary><b>GitHub Stats</b></summary>
-  <a href="https://github.com/rckmath">
-    <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" />
-  </a>
-  <br/>
-  <a href="https://github.com/rckmath/mblabs-app-desafio">
-    <img style="text-align:center;" src="https://github-readme-stats.vercel.app/api/pin/?username=rckmath&repo=mblabs-app-desafio&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=100" />
-  </a>
-  <a href="https://github.com/rckmath/game-2048">
-    <img style="text-align:center;" src="https://github-readme-stats.vercel.app/api/pin/?username=rckmath&repo=game-2048&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-</details>
 
 ***
 
@@ -50,3 +34,11 @@
     <img align="center" alt="C++" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     <img align="center" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+<br/>
+<details align="center">
+  <summary><b>GitHub Stats</b></summary>
+  <a href="https://github.com/rckmath">
+    <img src="https://github-readme-stats.vercel.app/api?username=rckmath&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues,contribs" width="300px" />
+  </a>
+  </a>
+</details>
